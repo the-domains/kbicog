@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[KBIC Original]]></title>
         <description><![CDATA[KBIC Original]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kbicog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 01:00:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 01:01:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kbicog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b3d0c4b-eaaf-452c-8b3c-25c24b2d46f8.png">]]></description>
+            <link>https://thegrid.ai/kbicog/04c36114-7ff4-4283-a2d5-63e7c45d830c/index.html</link>
+            <guid isPermaLink="false">04c36114-7ff4-4283-a2d5-63e7c45d830c</guid>
+            <pubDate>Wed, 25 Nov 2015 01:00:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f68b1a8-792a-47f9-9c27-dfe3bffdbb28.jpg">]]></description>
-            <link>undefined095f6cce-0334-415d-a7f8-0436c3018832/index.html</link>
+            <link>https://thegrid.ai/kbicog/095f6cce-0334-415d-a7f8-0436c3018832/index.html</link>
             <guid isPermaLink="false">095f6cce-0334-415d-a7f8-0436c3018832</guid>
             <pubDate>Wed, 25 Nov 2015 01:00:44 GMT</pubDate>
         </item>
