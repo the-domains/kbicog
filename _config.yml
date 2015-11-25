@@ -1,7 +1,7 @@
 name: kbicog
 favicon: null
-layout_spectrum: 0.0566060992423445
-typography_spectrum: 0.017844033893197775
+layout_spectrum: 0.50538
+typography_spectrum: 0.33283
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
+    - '#ffffff'
   brandStrength: 0.03058537980541587
-  lightness: 0.5589147487189621
-  saturation: 0.5018528546206653
-  rhythmicContrast: 0.4056065424811095
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
