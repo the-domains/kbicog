@@ -2,6 +2,7 @@ name: kbicog
 favicon: null
 layout_spectrum: 0.50538
 typography_spectrum: 0.33283
+title: KBIC Original
 cta:
   domain: null
   bucket: null
